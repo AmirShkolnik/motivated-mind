@@ -1,3 +1,7 @@
+Favicon - Free image from <https://www.freepik.com/> and converted to favicon using favicon converter https://favicon.io/favicon-converter/
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
